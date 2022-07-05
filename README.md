@@ -43,7 +43,7 @@ https://github.com/Kyusetzu
 
 ### PatchByte
 https://github.com/PatchByte
-https://github.com/Kyusetzu
+
 
 ![Patch's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatchByte&show_icons=true&theme=default)
 

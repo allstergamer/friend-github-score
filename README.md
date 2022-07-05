@@ -8,6 +8,7 @@
 
 
 ### G4ndur / @G4ndur
+(https://github.com/G4ndur)
 
 ![bear's GitHub stats](https://github-readme-stats.vercel.app/api?username=G4ndur&show_icons=true&theme=default)
 

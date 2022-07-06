@@ -6,9 +6,9 @@
 
 ### Lisa / me
 
-![lisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=allstergamer&show_icons=true&theme=github_dark)
+![lisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=allstergamer&show_icons=true&text_color=8350cc&title_color=d785f2&bg_color=0D1117&icon_color=490161)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allstergamer&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allstergamer&layout=compact&text_color=8350cc&title_color=d785f2&bg_color=0D1117&icon_color=490161)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### G4ndur

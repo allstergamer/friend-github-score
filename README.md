@@ -36,9 +36,9 @@
 ### Kyusetzu
 https://github.com/Kyusetzu
 
-![Kyus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyusetzu&show_icons=true&theme=default)
+![Kyus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyusetzu&show_icons=true&theme=great-gatsby)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyusetzu&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyusetzu&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### PatchByte

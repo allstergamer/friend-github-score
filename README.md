@@ -18,6 +18,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G4ndur&layout=compact&theme=default&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+### UberRam64
+(https://github.com/UberRam64)
+
+![bear's GitHub stats](https://github-readme-stats.vercel.app/api?username=UberRam64&show_icons=true&theme=default)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UberRam64&layout=compact&theme=default&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### RedShyGuy
 (https://github.com/RedShyGuy)
